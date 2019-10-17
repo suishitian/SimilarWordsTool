@@ -1,0 +1,115 @@
+discreet    adj.谨慎,考虑周全的
+decent    adj.体面的,像样的
+disgust    v.使作呕，使恶心
+mount    v.登上,爬上
+discount    v.打折,n.折扣
+
+chapel    n.小教堂
+chief    n.老板
+
+maternal    adj.母亲的,母性的
+aerial    adj.飞机的，航空的
+
+cardle    n.摇篮
+charmber    n.会议室
+
+cluster    n.一串，v.群集，丛生
+courtesy    n.礼貌
+
+deflect    v.倾斜，偏转
+eject    v.弹出，喷射
+deduct    v.减去
+
+decade    n.十年
+delete    v.删除
+
+all out    全力以赴
+phase out    v.逐渐淘汰
+
+suspicious    adj.可疑的，引起怀疑的
+pompous    adj.傲慢的，浮华的
+precarious    adj.不稳定的,危险的
+prodigious    adj.异常的,奇妙的,巨大的
+
+massacre    n.大屠杀
+adore    v.很喜欢
+aware    adj.意识到的
+
+call for    v.需要，邀请
+cellar    n.地下室
+
+infect    v.传染，感染
+inferior    adj.下等的，低等的
+
+drain    v.排水,排出
+frail    adj.脆弱的,不坚实的
+
+sustain    v.维持，支撑，承受，供养
+suitcase    n.手提箱
+
+sore    adj.疼痛的
+ore    n.矿石,矿砂
+
+concrete    adj.具体的，实质性的,n.混凝土
+condemn    v.谴责,责备
+
+bad : 
+    fantastic    adj.极好的,极大的
+    superfluous    adj.多余的,过剩的
+    get around sth.    v.规避，避开
+    have the making of    v.具有成为...所需要的素质
+    unfold    v.展开，伸展；表露，显露
+    lucrative    adj.合算的,获利的
+    alien    n.外星人，外国人
+    pull oneself together    v.振作起来，回复镇定
+    cynical    adj.愤世嫉俗的
+    foresee    v.预知，预测
+    available    adj.可得到的，可利用的
+    reciprocal    adj.互相的，互惠的
+    pave    v.铺
+    get through    完成穿过
+    come (bring) sth. to light    v.显露,揭露
+    cushion    v.缓和,n.坐垫
+    plow    v.耕,犁
+    nominate    v.提名,任命,adj.有特定名字的
+    be in two minds about sth    adj.犹豫不决
+    hold out (against)    phr.坚持(反抗),顶住
+    likewise    adv.同样的，此外
+    clutch    v.抓住，紧握
+    have to do with    v.与...相关
+    memento    n.纪念品
+    irony    n.反语
+    hasty    adj.匆忙的
+    fickle    adj.(在情感方面)反复无常
+    authenic    adj.真实存在的，真正的，可靠的
+    vocational    adj.职业的，业务的
+    postpone    v.延迟，推迟
+    peel    v.剥皮,削皮
+    keep on sb.    继续雇佣某人
+    baggage    n.行李
+    butcher    n.屠夫
+    diffuse    v.传播,扩散,弥漫
+    drawback    n.缺点,障碍
+    estate    n.地产
+    leave sb.(sth.) behind    忘带,留下
+    enrich    v.使丰富
+    exemplify    v.举例说明
+    steamer    n.蒸汽船
+    distinguish    v.区别，识别，辨别
+    unanimous    adj.全体一致的,一致同意的
+    particle    n.粒子，微粒
+    diploma    n.毕业文凭
+    grip    v.握紧，抓牢
+    chord    n.和弦
+    capacity    n.产能,容量
+    yacht    n.游艇;帆船
+    creep    v.爬行，潜入
+    make one`s day    phr.使某人快活
+    endorse    v.赞同，许可
+    invovle    v.牵涉卷入
+    crown    n.王冠,王权
+    conspiracy    n.密谋,阴谋
+    balance    n.平衡；称，平静
+    incorporate    v.包含，使得并入
+    anniversary    n.周年纪念日;adj.周年的
+    obnoxious    adj.非常讨厌的
